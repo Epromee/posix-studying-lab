@@ -1,7 +1,7 @@
 # posix_studying_lab
 I'm learning concepts of low-level UNIX programming, these files are my experimental sandbox.
 
-##termios_snake
+## termios_snake
 I tested some advanced terminal IO, so I wrote a simple snake game.
 I doesn't use any kind of curses library, only termios and ANSI escape sequences.
 
